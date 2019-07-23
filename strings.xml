@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Material Login Example</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+
+    <string-array name="parking_type_arrays">
+        <item>Normal</item>
+        <item>Wheel Chair</item>
+
+    </string-array>
+    <string name="parking_type_prompt">Choose a country</string>
+
+    <string-array name="parking_pref_arrays">
+        <item>Near to Exit</item>
+        <item>Near to Entry</item>
+
+    </string-array>
+    <string name="parking_pref_prompt">Choose a parking pref</string>
+    <string name="title_activity_dashboard">Dashboard</string>
+
+</resources>
